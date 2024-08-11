@@ -6,6 +6,10 @@
     display: none;
 }
 
+.wraper{
+    width: 100%;
+}
+
 .wraper h2{
     font-size: 30px;
     margin-inline: 20px;
@@ -29,7 +33,6 @@
     .wraper{
         display: flex;
         flex-direction: row;
-        padding: 20px;
         width: 100%;
     }
 
